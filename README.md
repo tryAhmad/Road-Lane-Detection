@@ -1,7 +1,3 @@
-Sure! Here's a README file for your road lane detection project based on the format you provided:
-
----
-
 # Road Lane Detection System
 
 A road lane detection system that uses computer vision techniques to detect and highlight lanes on road images and videos. The project employs OpenCV for image processing, detecting lane markings, and displaying results with annotated road lanes.
